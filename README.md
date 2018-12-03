@@ -1,1 +1,1 @@
-# ImageResizer
+# imageresizer
